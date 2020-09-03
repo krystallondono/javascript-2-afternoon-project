@@ -101,9 +101,9 @@ var user2 = {
   Make that change without modifying the original object code above.
 */
 
-// user2.name = 'Bryan G. Smith';
+user2.name = 'Bryan G. Smith';
 
-// user2.name = 'bryan.smith@devmounta.in';
+user2.email = 'bryan.smith@devmounta.in';
 
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
